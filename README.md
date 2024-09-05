@@ -1,5 +1,5 @@
 # sustainability_insights
-A project consisting of an executive summary with figures and a [Tableau Public Story](https://public.tableau.com/app/profile/samuel.alter/viz/sustainability_analysis/EmissionsAnalysis) were completed in 48 hours involving deriving insights from a detailed emissions dataset sourced from [Climate TRACE](https://climatetrace.org/).
+A project consisting of an executive summary with figures and a [Tableau Public Story](https://public.tableau.com/app/profile/samuel.alter/viz/sustainability_analysis/EmissionsAnalysis). This project was completed in 48 hours and centered on deriving insights from a detailed emissions dataset sourced from [Climate TRACE](https://climatetrace.org/).
 
 ## Introduction
 I have been tasked with exploring datasets from Climate TRACE containing greenhouse gas (GHG) emissions from coal mining, and glean insights from them. Climate TRACE is an organization that uses independently-verified data, sourced and derived from advanced technologies like satellite imagery, enhanced with machine learning. Climate TRACE and the values and needs of any sustainability-minded person or company are closely aligned; the work described here will show the promise of using Climate TRACE’s data to help everyone make informed, sustainable decisions.
