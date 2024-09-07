@@ -2,7 +2,15 @@
 A project consisting of an executive summary with figures and a [Tableau Public Story](https://public.tableau.com/app/profile/samuel.alter/viz/sustainability_analysis/EmissionsAnalysis). From start to finish, this project was completed in 48 hours and centered on deriving insights from a detailed emissions dataset sourced from [Climate TRACE](https://climatetrace.org/).
 
 ## <mark>TL;DR</mark>
-* 
+* In 48 hours, I completed the following:
+  * Performed EDA on greenhouse gas emissions dataset from [Climate TRACE](https://climatetrace.org/).
+    * Created 15 figures:
+      * 5 bar graphs
+      * 1 pie chart
+      * 4 global heatmaps
+      * 5 correlation matrices
+  * Created a [Tableau Public Story](https://public.tableau.com/app/profile/samuel.alter/viz/sustainability_analysis/EmissionsAnalysis) consisting of two dashboards
+  * Wrote a three-page executive summary of the work, which you can read below.
 
 ## Introduction
 This project explors datasets from Climate TRACE containing greenhouse gas (GHG) emissions from coal mining, and gleans insights from them. Climate TRACE is an organization that uses independently-verified data, sourced and derived from advanced technologies like satellite imagery, enhanced with machine learning. Climate TRACE and the values and needs of any sustainability-minded person or company are closely aligned; the work described here will show the promise of using Climate TRACE’s data to help everyone make informed, sustainable decisions.
@@ -88,7 +96,7 @@ Similar figures to the ones created for the broader context section above can be
 
 ![Figure 15](https://github.com/user-attachments/files/16919999/due20240829_ownership_numerical_correlation_iron.pdf)
 
-Was my hypothesis correct? Did iron ore deposits correlate with coal deposits? Although **Figure 14** suggests that it is correct, the true picture may have another explanation: We may be observing a quirk in how minerals are distributed in the earth’s crust. There are numerous articles discussing the geopolitics of rare earth minerals’ distribution, for example, and China is blessed with rich deposits of many of these. We might also be able to witness the difference in sustainable priorities among nations, and therefore their companies. While the USA is a big emitter of GHGs, some recent administrations have taken steps to reduce the USA’s contribution. The same level of effort may not be there in other countries. Norway, for example, seems to have struck a better balance than most with their revenue and emissions.
+Was my hypothesis correct? Did iron ore deposits correlate with coal deposits? Although **Figure 14** suggests that it is correct, the true picture may have another explanation: We may be observing a quirk in how minerals are distributed in the earth’s crust. There are [numerous](https://www.reuters.com/markets/commodities/chinas-rare-earths-dominance-focus-after-mineral-export-curbs-2023-07-05/) [articles](https://www.jstor.org/stable/resrep00311?searchText=Chinese+rare+earth+geology&searchUri=/action/doBasicSearch?Query=Chinese+rare+earth+geology&so=rel&ab_segments=0/basic_search_gsv2/control&refreqid=fastly-default:bb962a346827d9e1fc6b6a94dea225ef&seq=1) [discussing](https://www.jstor.org/stable/resrep23660?searchText=Chinese+rare+earth+geology&searchUri=/action/doBasicSearch?Query=Chinese+rare+earth+geology&so=rel&ab_segments=0/basic_search_gsv2/control&refreqid=fastly-default:bb962a346827d9e1fc6b6a94dea225ef) the geopolitics of rare earth minerals’ distribution, for example, and China is blessed with rich deposits of many of these. We might also be able to witness the difference in sustainable priorities among nations, and therefore their companies. While the USA is a big emitter of GHGs, some recent administrations have taken steps to reduce the USA’s contribution. The same level of effort may not be there in other countries. Norway, for example, seems to have struck a better balance than most with their revenue and emissions.
 
 ## Discussion
 It goes without saying that this assignment should in no way be used for investing advice, nor should it be used to inform a company’s — let alone a country’s — GHG emission reduction plan. What this exercise does show is that Ethic is doing important work to research and highlight companies that are at the forefront — or lagging behind their peers — of sustainability. I demonstrated here that no mining company can eliminate all of their GHG emissions, but some appear to do it better than others. The home country where the company is based looks like it has a large influence on the emissions behavior of the company. 
