@@ -38,9 +38,9 @@ An analysis of correlations (categorical and continuous data respectively) in th
 The distribution of coal mines’ emissions roughly follows the broader lithological distribution of major global coal beds, so we can expect to see coal mines in the eastern half of the US, in parts of central and eastern Asia, South Africa, and eastern Australia, for example (**Figure 8**).
 [Figure 8](https://github.com/user-attachments/files/16900062/due20240829_density_map.pdf)
 
-The correlations in the ownership dataset show nothing too revealing beyond the expected correlation between capacity and activity (**Figures 9 and 10**).
-[Figure 9](https://github.com/user-attachments/files/16900068/due20240829_ownership_categorical_correlation.pdf)
-[Figure 10](https://github.com/user-attachments/files/16900065/due20240829_ownership_numerical_correlation.pdf)
+The correlations in the ownership dataset show nothing too revealing beyond the expected correlation between capacity and activity ([**Figure 9**](https://github.com/user-attachments/files/16900068/due20240829_ownership_categorical_correlation.pdf) and [**Figure 10**](https://github.com/user-attachments/files/16900065/due20240829_ownership_numerical_correlation.pdf)).
+
+
 
 ### Parent Company-Focused Insights
 <mark>Note: the following refers to the Tableau Public Story which can be found [here](https://public.tableau.com/app/profile/samuel.alter/viz/sustainability_analysis/EmissionsAnalysis)</mark>
@@ -53,7 +53,6 @@ Analyzing the bottom twenty companies involved more legwork as I opted to filter
 
 ### Additional Data Source: Iron Mining Emissions Data
 Using the mineral extraction data downloaded from the Climate TRACE website, I opted to focus on iron mining emissions. Although it is not a perfect correlation, I thought that iron deposits could be found in places that are rich in coal. The other minerals included in the download package from Climate TRACE included copper and bauxite. From my geology background, I know that copper and bauxite are not usually found in places with coal beds. I did explore other data sources, like forest clearing, but the tight deadline of the assignment necessitated me using data that was more readily manipulatable.
-
-Similar figures to the ones created for the broader context section above can be found in Figures 11 through 15. We can see that contrary to methane emissions, CO2 emissions dropped by about 30% in 2022 compared to the highest year in the dataset, 2019. The usual big emitters are represented in the iron mining emission data as well, though the order of the top five most emitting is India, China, Brazil, Russia, and Australia. USA is sixth. 
+Similar figures to the ones created for the broader context section above can be found in **Figures 11** through **15**. We can see that contrary to methane emissions, CO2 emissions dropped by about 30% in 2022 compared to the highest year in the dataset, 2019. The usual big emitters are represented in the iron mining emission data as well, though the order of the top five most emitting is India, China, Brazil, Russia, and Australia. USA is sixth.
 
 Was my hypothesis correct? Did iron ore deposits correlate with coal deposits? Although Figure 14 suggests that it is correct, the true picture may have another explanation: We may be observing a quirk in how minerals are distributed in the earth’s crust. There are numerous articles discussing the geopolitics of rare earth minerals’ distribution, for example, and China is blessed with rich deposits of many of these. We might also be able to witness the difference in sustainable priorities among nations, and therefore their companies. While the USA is a big emitter of GHGs, some recent administrations have taken steps to reduce the USA’s contribution. The same level of effort may not be there in other countries. Norway, for example, seems to have struck a better balance than most with their revenue and emissions.
