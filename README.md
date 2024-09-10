@@ -84,15 +84,15 @@ Similar figures to the ones created for the broader context section above can be
 
 [**Figure 13:**](https://github.com/user-attachments/files/16919996/due20240829_global_co2_emissions_iron.pdf)
 
+![Figure 13](https://github.com/user-attachments/assets/25b2608b-cd0d-4f48-8b0f-7199fa30a08b)
 
+[**Figure 14:**](https://github.com/user-attachments/files/16920001/due20240829_density_map_iron.pdf)
 
-**Figure 14:**
+![Figure 14](https://github.com/user-attachments/assets/30823831-cd3e-4b3f-8a47-d0174ae376cd)
 
-![Figure 14](https://github.com/user-attachments/files/16920001/due20240829_density_map_iron.pdf)
+[**Figure 15:**](https://github.com/user-attachments/files/16919999/due20240829_ownership_numerical_correlation_iron.pdf)
 
-**Figure 15:**
-
-![Figure 15](https://github.com/user-attachments/files/16919999/due20240829_ownership_numerical_correlation_iron.pdf)
+![Figure 15](https://github.com/user-attachments/assets/f1a64900-540e-4f5f-9093-6310f46db27b)
 
 Was my hypothesis correct? Did iron ore deposits correlate with coal deposits? Although **Figure 14** suggests that it is correct, the true picture may have another explanation: We may be observing a quirk in how minerals are distributed in the earth’s crust. There are [numerous](https://www.reuters.com/markets/commodities/chinas-rare-earths-dominance-focus-after-mineral-export-curbs-2023-07-05/) [articles](https://www.jstor.org/stable/resrep00311?searchText=Chinese+rare+earth+geology&searchUri=/action/doBasicSearch?Query=Chinese+rare+earth+geology&so=rel&ab_segments=0/basic_search_gsv2/control&refreqid=fastly-default:bb962a346827d9e1fc6b6a94dea225ef&seq=1) [discussing](https://www.jstor.org/stable/resrep23660?searchText=Chinese+rare+earth+geology&searchUri=/action/doBasicSearch?Query=Chinese+rare+earth+geology&so=rel&ab_segments=0/basic_search_gsv2/control&refreqid=fastly-default:bb962a346827d9e1fc6b6a94dea225ef) the geopolitics of rare earth minerals’ distribution, for example, and China is blessed with rich deposits of many of these. We might also be able to witness the difference in sustainable priorities among nations, and therefore their companies. While the USA is a big emitter of GHGs, some recent administrations have taken steps to reduce the USA’s contribution. The same level of effort may not be there in other countries. Norway, for example, seems to have struck a better balance than most with their revenue and emissions.
 
