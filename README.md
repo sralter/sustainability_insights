@@ -13,7 +13,7 @@ A project consisting of an executive summary with figures and a [Tableau Public 
   * Wrote a three-page executive summary of the work, which you can read below.
 
 ## Introduction
-This project explors datasets from Climate TRACE containing greenhouse gas (GHG) emissions from coal mining, and gleans insights from them. Climate TRACE is an organization that uses independently-verified data, sourced and derived from advanced technologies like satellite imagery, enhanced with machine learning. Climate TRACE and the values and needs of any sustainability-minded person or company are closely aligned; the work described here will show the promise of using Climate TRACE’s data to help everyone make informed, sustainable decisions.
+This project explores datasets from Climate TRACE containing greenhouse gas (GHG) emissions from coal mining, and gleans insights from them. Climate TRACE is an organization that uses independently-verified data, sourced and derived from advanced technologies like satellite imagery, enhanced with machine learning. Climate TRACE and the values and needs of any sustainability-minded person or company are closely aligned; the work described here will show the promise of using Climate TRACE’s data to help everyone make informed, sustainable decisions.
 
 ## Methods
 There are three tables provided in the assignment, found [here](https://climatetrace.org/data): 
