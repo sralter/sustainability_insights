@@ -25,43 +25,41 @@ An extensive exploratory data analysis (EDA) was performed using Python and Tabl
 
 ## Insights
 ### Broader Context
-Before we focus on the companies operating the mines, we should take a moment to learn about the global trends in coal mine emissions. Global emissions of methane due to coal mining were on a steady increasing trajectory, going from about 42.2 million metric tons in 2015 to 51.5 million metric tons in 2022, an increase of about 20% (**Figure 1**):
+Before we focus on the companies operating the mines, we should take a moment to learn about the global trends in coal mine emissions. Global emissions of methane due to coal mining were on a steady increasing trajectory, going from about 42.2 million metric tons in 2015 to 51.5 million metric tons in 2022, an increase of about 20% ([**Figure 1**](https://github.com/user-attachments/files/16899994/due20240829_ch4.pdf)):
 
-![Figure 1](https://github.com/user-attachments/files/16899994/due20240829_ch4.pdf)
+![Figure 1](https://github.com/user-attachments/assets/33fae6dd-6247-42b7-922f-ab904de55941)
 
-In terms of the biggest emitters globally, for all the years in the dataset, China, USA, Australia, and Russia claim the top four spots respectively (**Figure 2**). China, the first on this list, emits about ten times as much methane emissions compared to the number two, USA:
+In terms of the biggest emitters globally, for all the years in the dataset, China, USA, Australia, and Russia claim the top four spots respectively ([**Figure 2**](https://github.com/user-attachments/files/16900017/due20240829_total_country_emission_sources_log.pdf)). China, the first on this list, emits about ten times as much methane emissions compared to the number two, USA:
 
-![Figure 2](https://github.com/user-attachments/files/16900017/due20240829_total_country_emission_sources_log.pdf)
+![Figure 2](https://github.com/user-attachments/assets/3a1b9016-c10a-42cc-82fd-256c35ae82ba)
 
-China and USA are also number one and two, respectively, on total emissions sources (**Figure 3**):
+China and USA are also number one and two, respectively, on total emissions sources ([**Figure 3**](https://github.com/user-attachments/files/16900009/due20240829_country_emission_sources_log.pdf)):
 
-![Figure 3](https://github.com/user-attachments/files/16900009/due20240829_country_emission_sources_log.pdf)
+![Figure 3](https://github.com/user-attachments/assets/e2be1258-130a-4a03-ac1c-943c9c0acdeb)
 
 We are starting to see a pattern emerge of which countries emit the most, which is validated in the news stories we read on what seems to be on a near-daily basis.
 
-The countries that have little to no mines include Argentina, Bangladesh, Spain, Nepal, and Egypt. In terms of emissions sources, solely underground- and solely surface-based emissions make up almost 98% of all emissions sources, with the other few percentage points going to mines with both underground and surface areas, and refuse (**Figure 4**):
+The countries that have little to no mines include Argentina, Bangladesh, Spain, Nepal, and Egypt. In terms of emissions sources, solely underground- and solely surface-based emissions make up almost 98% of all emissions sources, with the other few percentage points going to mines with both underground and surface areas, and refuse ([**Figure 4**](https://github.com/user-attachments/files/16900029/due20240829_emission_sources_pie.pdf)):
 
-![Figure 4](https://github.com/user-attachments/files/16900029/due20240829_emission_sources_pie.pdf)
+![Figure 4](https://github.com/user-attachments/assets/df5c8386-4221-41b9-bd0e-6677b0879c0c)
 
-A global overview of the countries included in the dataset with measurable emissions is found in **Figure 5**:
+A global overview of the countries included in the dataset with measurable emissions is found in [**Figure 5**](https://github.com/user-attachments/files/16900037/due20240829_global_ch4_emissions.pdf):
 
-![Figure 5](https://github.com/user-attachments/files/16900037/due20240829_global_ch4_emissions.pdf)
+![Figure 5](https://github.com/user-attachments/assets/8bdab84c-832a-4de7-a46c-6dcf7b1ac7a9)
 
-An analysis of correlations (categorical and continuous data respectively) in the emissions sources dataset yields some minor insights, like a mild positive correlation (0.44) between source type and country (**Figures 6** and **7**):
+An analysis of correlations (categorical and continuous data respectively) in the emissions sources dataset yields some minor insights, like a mild positive correlation (0.44) between source type and country ([**Figures 6**](https://github.com/user-attachments/files/16900040/due20240829_emissions_sources_categorical_correlation.pdf) and [**7**](https://github.com/user-attachments/files/16900045/due20240829_emissions_sources_numerical_correlation.pdf)):
 
-![Figure 6](https://github.com/user-attachments/files/16900040/due20240829_emissions_sources_categorical_correlation.pdf)
-![Figure 7](https://github.com/user-attachments/files/16900045/due20240829_emissions_sources_numerical_correlation.pdf)
+![Figure 6](https://github.com/user-attachments/assets/b18ecf34-a706-4017-84a7-8f814005885f)
+![Figure 7](https://github.com/user-attachments/assets/7b2dcee0-9858-450d-8865-b9a29949cc60)
 
-The distribution of coal mines’ emissions roughly follows the broader lithological distribution of major global coal beds, so we can expect to see coal mines in the eastern half of the US, in parts of central and eastern Asia, South Africa, and eastern Australia, for example (**Figure 8**):
+The distribution of coal mines’ emissions roughly follows the broader lithological distribution of major global coal beds, so we can expect to see coal mines in the eastern half of the US, in parts of central and eastern Asia, South Africa, and eastern Australia, for example ([**Figure 8**](https://github.com/user-attachments/files/16900062/due20240829_density_map.pdf)):
 
-![Figure 8](https://github.com/user-attachments/files/16900062/due20240829_density_map.pdf)
+![Figure 8](https://github.com/user-attachments/assets/e08b27c4-2d7c-470f-9bc5-c1c4b5cbb90e)
 
-The correlations in the ownership dataset show nothing too revealing beyond the expected correlation between capacity and activity (**Figures 9** and **10**):
+The correlations in the ownership dataset show nothing too revealing beyond the expected correlation between capacity and activity ([**Figures 9**](https://github.com/user-attachments/files/16900068/due20240829_ownership_categorical_correlation.pdf) and [**10**](https://github.com/user-attachments/files/16900065/due20240829_ownership_numerical_correlation.pdf)).):
 
-![Figure 9](https://github.com/user-attachments/files/16900068/due20240829_ownership_categorical_correlation.pdf)
-![Figure 10](https://github.com/user-attachments/files/16900065/due20240829_ownership_numerical_correlation.pdf)).
-
-
+![Figure 9](https://github.com/user-attachments/assets/af0c81cc-c2e5-402d-9889-91ce7036dafb)
+![Figure 10](https://github.com/user-attachments/assets/143a4ccc-954b-4b55-bd0d-3de0d72020e6)
 
 ### Parent Company-Focused Insights
 <mark>Note: the following refers to the Tableau Public Story which can be found [here](https://public.tableau.com/app/profile/samuel.alter/viz/sustainability_analysis/EmissionsAnalysis)</mark>
@@ -76,17 +74,17 @@ Analyzing the bottom twenty companies involved more legwork as I opted to filter
 Using the mineral extraction data downloaded from the Climate TRACE website, I opted to focus on iron mining emissions. Although it is not a perfect correlation, I thought that iron deposits could be found in places that are rich in coal. The other minerals included in the download package from Climate TRACE included copper and bauxite. From my geology background, I know that copper and bauxite are not usually found in places with coal beds. I did explore other data sources, like forest clearing, but the constraints that I put this project under necessitated me using data that was more readily manipulatable.
 Similar figures to the ones created for the broader context section above can be found in **Figures 11** through **15** below. We can see that contrary to methane emissions, CO2 emissions dropped by about 30% in 2022 compared to the highest year in the dataset, 2019. The usual big emitters are represented in the iron mining emission data as well, though the order of the top five most emitting is India, China, Brazil, Russia, and Australia. USA is sixth.
 
-**Figure 11:**
+[**Figure 11:**](https://github.com/user-attachments/files/16919975/due20240829_iron_co2.pdf)
 
-![Figure 11](https://github.com/user-attachments/files/16919975/due20240829_iron_co2.pdf)
+![Figure 11](https://github.com/user-attachments/assets/ea34dae0-c021-47a0-876c-5386e9adc6da)
 
-**Figure 12:**
+[**Figure 12:**](https://github.com/user-attachments/files/16919995/due20240829_total_country_emission_sources_log_iron.pdf)
 
-![Figure 12](https://github.com/user-attachments/files/16919995/due20240829_total_country_emission_sources_log_iron.pdf)
+![Figure 12](https://github.com/user-attachments/assets/03b4ba45-734b-492f-928b-694888639567)
 
-**Figure 13:**
+[**Figure 13:**](https://github.com/user-attachments/files/16919996/due20240829_global_co2_emissions_iron.pdf)
 
-![Figure 13](https://github.com/user-attachments/files/16919996/due20240829_global_co2_emissions_iron.pdf)
+
 
 **Figure 14:**
 
