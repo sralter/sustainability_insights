@@ -100,7 +100,8 @@ Was my hypothesis correct? Did iron ore deposits correlate with coal deposits? A
 
 ## Discussion
 It goes without saying that this assignment should in no way be used for investing advice, nor should it be used to inform a company’s — let alone a country’s — GHG emission reduction plan. What this exercise does show is that Ethic is doing important work to research and highlight companies that are at the forefront — or lagging behind their peers — of sustainability. I demonstrated here that no mining company can eliminate all of their GHG emissions, but some appear to do it better than others. The home country where the company is based looks like it has a large influence on the emissions behavior of the company. 
-	Just as with the organic food movement, the finance industry should adopt these same principles to create an [“organic finance”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2696448) system, to allow for transparency and real-economy-based products. As part of that, especially in a warming world, people want to try and make a difference in any way that they can. Investing in sustainable companies, or entities that are better than their peers, are good steps that people and entities should take.
+
+Just as with the organic food movement, the finance industry should adopt these same principles to create an [“organic finance”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2696448) system, to allow for transparency and real-economy-based products. As part of that, especially in a warming world, people want to try and make a difference in any way that they can. Investing in sustainable companies, or entities that are better than their peers, are good steps that people and entities should take.
 
 ### Questions and Potential Future Work
 This project brought up many questions and showed the way towards future projects:
