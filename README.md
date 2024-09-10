@@ -16,7 +16,7 @@ A project consisting of an executive summary with figures and a [Tableau Public 
 This project explores datasets from Climate TRACE containing greenhouse gas (GHG) emissions from coal mining, and gleans insights from them. Climate TRACE is an organization that uses independently-verified data, sourced and derived from advanced technologies like satellite imagery, enhanced with machine learning. Climate TRACE and the values and needs of any sustainability-minded person or company are closely aligned; the work described here will show the promise of using Climate TRACE’s data to help everyone make informed, sustainable decisions.
 
 ## Methods
-There are three tables provided in the assignment, found [here](https://climatetrace.org/data): 
+There were three main tables that were used for this project found [here](https://climatetrace.org/data) and are listed below:
 1. GHG emissions sourced from coal mining operations, grouped by year (2015-2022) and country
 2. A table highlighting individual sources for emissions (i.e., individual mines) with other relevant data like country included, and
 3. A table listing the corporate owners of those mines along with their revenue.
