@@ -2,7 +2,7 @@
 A project consisting of an executive summary with figures and a [Tableau Public Story](https://public.tableau.com/app/profile/samuel.alter/viz/sustainability_analysis/EmissionsAnalysis). From start to finish, this project was completed in 48 hours and centered on deriving insights from a detailed emissions dataset sourced from [Climate TRACE](https://climatetrace.org/).
 
 ## <mark>TL;DR</mark>
-* This project used the following frameworks – <mark>Pandas</mark>, <mark>NumPy</mark>, <mark>Matplotlib</mark>, <mark>DuckDB’s</mark> <mark>SQL</mark> functionality within Python, and <mark>Tableau</mark> – to produce the following, all within _**48 hours**_:
+* This project used the following frameworks – <mark>Pandas</mark>, <mark>NumPy</mark>, <mark>Matplotlib</mark>, <mark>DuckDB’s</mark> <mark>SQL</mark> functionality within Python, and <mark>Tableau</mark> – to produce the following, _**all within 48 hours**_:
   * Performed EDA on greenhouse gas emissions dataset from [Climate TRACE](https://climatetrace.org/).
     * Created 15 figures:
       * 5 bar graphs
